@@ -1,3 +1,4 @@
+Here's the updated `README.md` file with bold text instead of asterisks:
 
 ```markdown
 # Real-time Event Booking Solution using AWS Cloud Infrastructure
@@ -8,7 +9,7 @@ The **Real-time Event Booking Solution** leverages the power of AWS Cloud Infras
 
 ---
 
-## 🚀 Features
+## 📜 Features
 
 - **Scalable Event Management**: Handles surges in traffic during high-demand periods using AWS EC2 auto-scaling.
 - **Real-time Bookings**: Optimized database management with Amazon RDS for instant updates.
@@ -35,6 +36,10 @@ The **Real-time Event Booking Solution** leverages the power of AWS Cloud Infras
 
 ![AWS Architecture](link-to-your-architecture-diagram-image)
 
+![Screenshot 2024-11-18 163204](https://github.com/user-attachments/assets/ff6146be-4ea5-4269-8b61-5518589dbd88)
+![Screenshot 2024-11-18 163215](https://github.com/user-attachments/assets/0e9734d4-ddd6-43a3-bf59-783028d284ad)
+![Screenshot 2024-11-18 163223](https://github.com/user-attachments/assets/34d22fd9-428a-4cc7-8ecb-c339113066c3)
+
 ---
 
 ## ⚙️ Project Setup
@@ -56,7 +61,7 @@ The **Real-time Event Booking Solution** leverages the power of AWS Cloud Infras
    source venv/bin/activate
    pip install -r requirements.txt
    ```
-3. Configure the **RDS** database connection in `config.py`.
+3. Configure the RDS database connection in `config.py`.
 4. Run the application locally:
    ```bash
    python3 app.py
@@ -67,14 +72,14 @@ The **Real-time Event Booking Solution** leverages the power of AWS Cloud Infras
 
 ## 📊 Key Scenarios
 
-### 1. **Scalable Event Management**
-- Auto-scaling during peak demand using AWS EC2 ensures uninterrupted performance.
+### 1. Scalable Event Management
+Auto-scaling during peak demand using AWS EC2 ensures uninterrupted performance.
 
-### 2. **Optimized Database for Real-time Updates**
-- Amazon RDS with MySQL ensures data accuracy and supports large user bases.
+### 2. Optimized Database for Real-time Updates
+Amazon RDS with MySQL ensures data accuracy and supports large user bases.
 
-### 3. **Secure Media Storage**
-- AWS S3 handles large event media efficiently with restricted access control.
+### 3. Secure Media Storage
+AWS S3 handles large event media efficiently with restricted access control.
 
 ---
 
@@ -97,7 +102,11 @@ The **Real-time Event Booking Solution** leverages the power of AWS Cloud Infras
    - Access via the EC2 public IP address.
 
 ---
-
+![Screenshot 2024-11-18 163058](https://github.com/user-attachments/assets/325e3626-e21a-40fb-a9ed-2e11af11fd78)
+![Screenshot 2024-11-18 163107](https://github.com/user-attachments/assets/33e1ae9c-51b7-493d-be70-eb93e3623b3a)
+![Screenshot 2024-11-18 163139](https://github.com/user-attachments/assets/49f8b723-ff23-4540-aac7-2aa71ce2fddb)
+![Screenshot 2024-11-18 163147](https://github.com/user-attachments/assets/ec2d81ed-8424-4df5-8a28-241fa3f297fc)
+![Screenshot 2024-11-18 163158](https://github.com/user-attachments/assets/1232c2ad-b5c8-4d14-aa9d-c174247132a2)
 ## 🛡️ Security and Performance
 
 - **IAM Policies**: Enforce restricted access to AWS resources.
@@ -121,4 +130,4 @@ For questions or suggestions, feel free to reach out via [GitHub Issues](https:/
 ---
 ```
 
-Replace `link-to-your-architecture-diagram-image` with the actual path or link to your architecture diagram image. Let me know if you'd like any modifications!
+Let me know if you need further adjustments!
