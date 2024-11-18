@@ -35,6 +35,8 @@ The **Real-time Event Booking Solution** leverages the power of AWS Cloud Infras
 ## 🏗️ Architecture Overview
 
 ![AWS Architecture](link-to-your-architecture-diagram-image)
+![Screenshot 2024-11-18 163058](https://github.com/user-attachments/assets/7fb32960-da0c-426e-91e1-c1370e302195)
+
 
 
 ---
