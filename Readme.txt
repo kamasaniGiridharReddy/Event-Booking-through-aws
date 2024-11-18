@@ -35,14 +35,7 @@ The **Real-time Event Booking Solution** leverages the power of AWS Cloud Infras
 ## 🏗️ Architecture Overview
 
 ![AWS Architecture](link-to-your-architecture-diagram-image)
-![Screenshot 2024-11-18 163058](https://github.com/user-attachments/assets/f71b9544-e309-45ad-8cd6-3b56fd2c7bc3)
-![Screenshot 2024-11-18 163107](https://github.com/user-attachments/assets/142ca893-a215-49a0-9791-600836a37ce7)
-![Screenshot 2024-11-18 163139](https://github.com/user-attachments/assets/8bf63b6c-3d20-4a66-9801-aec297eebf34)
-![Screenshot 2024-11-18 163147](https://github.com/user-attachments/assets/10f6e86a-4d4e-495c-9d0c-576da0721d81)
-![Screenshot 2024-11-18 163158](https://github.com/user-attachments/assets/5f5f80d6-d15d-47f3-a908-68c3aaa9cba7)
-![Screenshot 2024-10-24 173550](https://github.com/user-attachments/assets/d1296f4c-83bf-4554-9801-19f3b48d9d81)
-![Screenshot 2024-11-18 163215](https://github.com/user-attachments/assets/8f6865f8-920d-48e8-a943-7e502845cefc)
-![Screenshot 2024-11-18 163223](https://github.com/user-attachments/assets/aac81fd9-f231-43c2-93b0-47c9a4d5d2bb)
+
 
 ---
 
@@ -71,8 +64,7 @@ The **Real-time Event Booking Solution** leverages the power of AWS Cloud Infras
    python3 app.py
    ```
 5. Access the app at `http://127.0.0.1:5000`.
-![Screenshot 2024-11-18 163139](https://github.com/user-attachments/assets/e5d5c95b-e913-42f9-8b4d-e4c31e88a655)
-![Screenshot 2024-11-18 163147](https://github.com/user-attachments/assets/b8673640-37f6-456e-afc5-6b62c27b6ee7)
+
 
 ---
 
@@ -108,10 +100,7 @@ AWS S3 handles large event media efficiently with restricted access control.
    - Access via the EC2 public IP address.
 
 ---
-![Screenshot 2024-11-18 163158](https://github.com/user-attachments/assets/24160eb8-1958-42f4-92c0-37fe454dc47e)
-![Screenshot 2024-11-18 163204](https://github.com/user-attachments/assets/1da55073-8a2d-4114-ba3d-4bdc96e304e9)
-![Screenshot 2024-11-18 163215](https://github.com/user-attachments/assets/0f22c7d8-a636-4711-be17-c6229f181e54)
-![Screenshot 2024-11-18 163223](https://github.com/user-attachments/assets/c8d84c23-0b89-4a42-abf9-751893036790)
+
 
 ## 🛡️ Security and Performance
 
