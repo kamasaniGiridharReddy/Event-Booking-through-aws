@@ -35,10 +35,9 @@ The **Real-time Event Booking Solution** leverages the power of AWS Cloud Infras
 ## 🏗️ Architecture Overview
 
 ![AWS Architecture](link-to-your-architecture-diagram-image)
+![Screenshot 2024-11-18 163058](https://github.com/user-attachments/assets/ea6dc7cd-81ca-4fad-9eac-6380cd48a8dc)
+![Screenshot 2024-11-18 163107](https://github.com/user-attachments/assets/2f2b8f6f-a9d9-474a-aa6a-a1c6036a50a4)
 
-![Screenshot 2024-11-18 163204](https://github.com/user-attachments/assets/ff6146be-4ea5-4269-8b61-5518589dbd88)
-![Screenshot 2024-11-18 163215](https://github.com/user-attachments/assets/0e9734d4-ddd6-43a3-bf59-783028d284ad)
-![Screenshot 2024-11-18 163223](https://github.com/user-attachments/assets/34d22fd9-428a-4cc7-8ecb-c339113066c3)
 
 ---
 
@@ -67,6 +66,8 @@ The **Real-time Event Booking Solution** leverages the power of AWS Cloud Infras
    python3 app.py
    ```
 5. Access the app at `http://127.0.0.1:5000`.
+![Screenshot 2024-11-18 163139](https://github.com/user-attachments/assets/e5d5c95b-e913-42f9-8b4d-e4c31e88a655)
+![Screenshot 2024-11-18 163147](https://github.com/user-attachments/assets/b8673640-37f6-456e-afc5-6b62c27b6ee7)
 
 ---
 
@@ -102,11 +103,11 @@ AWS S3 handles large event media efficiently with restricted access control.
    - Access via the EC2 public IP address.
 
 ---
-![Screenshot 2024-11-18 163058](https://github.com/user-attachments/assets/325e3626-e21a-40fb-a9ed-2e11af11fd78)
-![Screenshot 2024-11-18 163107](https://github.com/user-attachments/assets/33e1ae9c-51b7-493d-be70-eb93e3623b3a)
-![Screenshot 2024-11-18 163139](https://github.com/user-attachments/assets/49f8b723-ff23-4540-aac7-2aa71ce2fddb)
-![Screenshot 2024-11-18 163147](https://github.com/user-attachments/assets/ec2d81ed-8424-4df5-8a28-241fa3f297fc)
-![Screenshot 2024-11-18 163158](https://github.com/user-attachments/assets/1232c2ad-b5c8-4d14-aa9d-c174247132a2)
+![Screenshot 2024-11-18 163158](https://github.com/user-attachments/assets/24160eb8-1958-42f4-92c0-37fe454dc47e)
+![Screenshot 2024-11-18 163204](https://github.com/user-attachments/assets/1da55073-8a2d-4114-ba3d-4bdc96e304e9)
+![Screenshot 2024-11-18 163215](https://github.com/user-attachments/assets/0f22c7d8-a636-4711-be17-c6229f181e54)
+![Screenshot 2024-11-18 163223](https://github.com/user-attachments/assets/c8d84c23-0b89-4a42-abf9-751893036790)
+
 ## 🛡️ Security and Performance
 
 - **IAM Policies**: Enforce restricted access to AWS resources.
